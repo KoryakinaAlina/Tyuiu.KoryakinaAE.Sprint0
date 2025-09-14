@@ -9,6 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.KoryakinaAE.Sprint0.Task3.V0.Lib\Tyuiu.KoryakinaAE.Sprint0.Task3.V0.Lib.csproj" />
-  </ItemGroup>
+  </ItemGroup> 
 
 </Project>

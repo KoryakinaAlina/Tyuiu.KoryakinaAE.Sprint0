@@ -2,7 +2,7 @@
 
 namespace Tyuiu.KoryakinaAE.Sprint0.Task3.V0
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
